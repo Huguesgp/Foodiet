@@ -1,0 +1,156 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+}
+
+header {
+	width: 100%;
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	float: ;
+	position: float;
+}
+
+header nav {
+	padding: 30px 5% 30px 5%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header nav .right {
+	display: flex;
+	align-items: center
+	color: white;
+}
+
+header nav .right p{
+	margin: 0 15px 0 0 ;
+	color: white;
+}
+
+.right button{
+	width: 100px;
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	color: white;
+	border: solid 1px white;
+	border-radius: 2px;
+	transition: background-color 0.5s, color 0.5s;
+}
+
+.presentation-first {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.presentation .product-presentation h1 {
+	padding-top: 15px;
+	margin: 0;
+	font-size: 36px;
+	width: 80%;
+}
+.presentation .product-presentation h2 {
+	padding-top: 15px;
+	margin: 0;
+	font-size: 18px;
+	width: 80%;
+}
+
+.presentation.product-presentation li {
+	padding-top: 15px;
+	margin: 0;
+	font-size: 16px;
+	width: 80%;
+}
+.presentation .product-presentation p {
+	font-weight: 300;
+	color: #e9e9e9;
+}
+.presentation .product-presentation button {
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	color: white;
+	width: 200px;
+	margin-top: 20px;
+	padding: 15px 20px;
+	font-size: 15px;
+	border-radius: 10px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.first .product-presentation button {
+	background-color:linear-gradient(#80D0ED,#7cd5c1);
+	border: 1px solid var(white);
+	transition: background-color 0.5s, color 0.5s;
+}
+
+.product-presentation {
+	width: 50%;
+}
+
+.image-presentation {
+	width: 50%;
+	text-align: center;
+}
+
+.image-balance {
+	width: 50%;
+}
+
+.image-review {
+	width: 25%;
+}
+
+.block-middle {
+	width: 100%;
+	text-align: center;
+}
+
+.block-icone {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.icone-niv1, .icone-niv2, .icone-niv3 {
+	width: 25%;
+	padding: 10px;
+}
+
+.btn-header {
+	width: 250px;
+	height: 50px;
+	color: white;
+	background: linear-gradient(#80D0ED,#7cd5c1);
+	border: none;
+	border-radius: 2px;
+}
+
+.presentation-title 
+{
+	font-size: 15px;
+}
+
+.bouton-icone {
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(#80D0ED,#7cd5c1);
+	color: white;
+	border: none;
+	border-radius: 10px;
+}
+
+.logo-banner {
+	width: 5%;
+	margin-left: 100px;
+}

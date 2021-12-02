@@ -1,0 +1,32 @@
+.bloc-full-carousel {
+	width: 100%;
+	height: 300px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-bottom: 150px;
+}
+
+.titre-carousel {
+	width: 50%;
+	padding-left: 200px;
+}
+
+.conteneur-carrousel {
+	width: 	50%;
+	text-align: center !important;
+	align-items: center !important;
+	display: flex;
+	flex-direction: column;
+	justify-content: center !important;
+}
+
+#carouselExampleControls {
+	width: 75%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon, .carousel-control-prev, .carousel-control-next, .sr-only {
+	color: black !important;
+	background-color: black;
+}
+

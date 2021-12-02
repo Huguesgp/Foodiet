@@ -1,0 +1,44 @@
+.faq {
+	width: 100%;
+	align-items: center !important;
+	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
+
+.titre-faq {
+	margin-bottom: 50px;
+}
+
+.toggle-faq {
+	width: 50%;
+	align-items: center !important;
+}
+
+.card-header {
+	height: 100px;
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	border: none !important;
+	color: white !important;
+	text-decoration: none !important;
+}
+
+.card-body {
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	border: none !important;
+}
+
+#btn-faq {
+	position: ;
+	color: white !important;
+	font-weight: bold;
+	text-decoration: none !important;
+	padding-bottom: 25px !important;
+}
+
+.mb-0 {
+	padding-bottom: 25px !important;
+}

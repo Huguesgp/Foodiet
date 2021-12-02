@@ -1,0 +1,47 @@
+.footer{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.logo {
+	width: 20%;
+}
+
+.réseaux {
+	list-style: none;
+}
+
+.réseaux li {
+	display: inline
+}
+
+.réseaux i {
+	font-size: 30px;
+	padding: 10px;
+}
+
+.réseaux i a {
+	text-decoration: none;
+}
+
+.réseaux li a:hover {
+
+}
+
+.fab.fa-facebook-square, .fab.fa-twitter-square, .fab.fa-instagram-square, .fab.fa-twitter-square {
+	background: linear-gradient(#80D0ED, #7cd5c1) !important;
+	color: white !important;
+}
+
+.txt-footer {
+	text-align: center;
+}
+
+.logo-footer, .txt-footer, .liste-réseaux {
+	width: 33%;
+}

@@ -1,0 +1,20 @@
+@import url("Components/header-section.css");
+@import url("Components/appli-section.css");
+@import url("Components/specification-section.css");
+@import url("Components/carousel-section.css");
+@import url("Components/video-section.css");
+@import url("Components/faq-section.css");
+@import url("Components/achat-section.css");
+@import url("Components/contact-section.css");
+@import url("Components/footer.css");
+@media screen and (max-width: 1280px)
+{
+   body, header {
+   	width: auto;
+   }
+@media screen and (max-width: 1280px)
+{
+   .header {
+   	width: auto;
+   }
+}

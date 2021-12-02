@@ -1,0 +1,34 @@
+.section-achat
+{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	padding-top: 50px;
+	border-bottom-left-radius: 35%;
+	border-bottom-right-radius: -35%;
+}
+
+.titre-achat {
+	width: 50%;
+	margin-left: 200px;
+	color: white;
+	font-family: 'Montserrat';
+}
+
+.image-achat {
+	width: 50%;
+}
+
+.img-appli {
+	width: 75%;
+}
+
+.btn {
+	margin-top: 50px;
+}
+
+.h2-achat {
+	font-size: 40px;
+}

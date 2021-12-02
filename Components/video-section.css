@@ -1,0 +1,40 @@
+.full-bloc-video {
+	width: 100%;
+	text-align: center;
+}
+.conteneur-video {
+	width: 75%;
+	height: 400px;
+	margin: auto;
+	background: linear-gradient(#80D0ED, #7cd5c1);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.icones {
+	padding-top: 75px;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	size: 40px;
+}
+
+.video-balance {
+	margin-top: -100px;
+}
+
+.titre-video {
+	margin-bottom: 150px;
+}
+
+.fas.fa-balance-scale, .fas.fa-barcode, .far.fa-plus-square {
+	size: 500px !important;
+}
+
+#icone-blank {
+	color: white !important;
+}
